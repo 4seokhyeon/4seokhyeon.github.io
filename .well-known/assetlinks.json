@@ -1,14 +1,11 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.peng.wattmlauncher",
-      "sha256_cert_fingerprints": [
-          "B0:36:1C:93:C7:D4:95:C2:8C:D9:1D:DD:7D:7E:AE:86:A7:07:91:88:C9:5F:FC:21:68:E1:47:44:DD:C5:30:13"
-      ]
+      "sha256_cert_fingerprints":
+        ["B7:C5:57:A8:D1:EE:41:0D:FC:88:02:AA:18:4C:DA:59:01:D3:DF:12:F3:3F:CA:04:1C:D6:1A:2D:23:85:DB:05"]
     }
   }
 ]
